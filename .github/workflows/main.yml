@@ -19,8 +19,8 @@ jobs:
       run: npm run generate
     - name: Update README.md
       run: |
-        git config --global user.email "john@example.com"
-        git config --global user.name "example"
+        git config --global user.email "imhantran@gmail.com"
+        git config --global user.name "hanktran"
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
         git push
