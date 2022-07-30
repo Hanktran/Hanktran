@@ -1,0 +1,24 @@
+{
+  "name": "hanktran",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanktran/hanktran.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanktran/hanktran/issues"
+  },
+  "homepage": "https://github.com/hanktran/hanktran#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
