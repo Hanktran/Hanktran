@@ -1,3 +1,3 @@
-_**You must have a positive self perception in order to transcend anything.**_
+_**The determination to win is the better part of winning.**_
 
-Steve Maraboli
+Daisaku Ikeda
