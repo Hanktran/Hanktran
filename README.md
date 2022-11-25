@@ -1,3 +1,3 @@
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Larry Page
+Ralph Waldo Emerson
